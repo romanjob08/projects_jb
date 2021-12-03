@@ -1,0 +1,17 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mein_content {
+    text-align: center;
+}
+.textArea {
+    width: 60%;
+    height: 300px;
+}
+.sentence-case, .proper-case, .lower-case, .upper-case, .save-text-file {
+    background-color: #ffa17b;
+    width: 120px;
+    /*height: 40px;*/
+    border-radius: 5px;
+}
